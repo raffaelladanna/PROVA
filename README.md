@@ -1,1 +1,1 @@
-# Bayesian-optimization-project
+# Bayesian-optimization
